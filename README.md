@@ -5,3 +5,4 @@ https://github.com/Gudlajerusha/19ECB132-/blob/075575fd25298c108fe364b6e4b5c4ec7
 https://github.com/Gudlajerusha/19ECB132-/blob/cd3d1f51bc530b5a301b3d7fc8db9e8789345704/add,deleting%20and%20modifying%20using%20arrays.c
 https://github.com/Gudlajerusha/19ECB132-/blob/ab9541eed1557d1585e00228de899f93161c16a4/array1.c
 https://github.com/Gudlajerusha/19ECB132-/blob/55466f662688ed3d46bca895c59d953a0134c5a9/binarytree.c
+https://github.com/Gudlajerusha/19ECB132-/blob/cb02e7c4c446b8d2c7e2754c5757f859770b3ffd/double%20linkrd%20list.c
