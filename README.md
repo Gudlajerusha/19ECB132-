@@ -10,5 +10,4 @@
 [linearstructure.c](linearstructure.c)         
 [positive,negative.c](positive,negative.c)     
 [swapping.c](swapping.c)   
-[natural_numbers.c](natural_numbers.c)   
-[add,delete and_modifyingusingsingle _linkedlist.c](add,delete and_modifyingusingsingle _linkedlist.c)
+[natural_numbers.c](natural_numbers.c)  
