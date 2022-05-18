@@ -20,3 +20,4 @@
 [prime_numbers.c](prime_numbers.c)     
 [simple_calculator.c](simple_calculator.c)     
 [transpose_matrix.c](transpose_matrix.c)       
+[LCM_2num.c](LCM_2num.c)     
