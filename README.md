@@ -3,13 +3,7 @@
 ## INDEX
 [hello.c](hello.c)
 
-[FABONACCI.C](FABONACCI.C)  
-
-[LCM of 2 nums.c](LCM of 2 nums.c) 
-
-[add,delete and modifying using single linked list.c](add,delete and modifying using single linked list.c)    
-
-[add,deleting and modifying using arrays.c](add,deleting and modifying using arrays.c)
+[FABONACCI.C](FABONACCI.C)    
 
 [array1.c](array1.c)
 
