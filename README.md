@@ -7,15 +7,9 @@
 
 [array1.c](array1.c)
 
-[binarytree.c](binarytree.c)   
-
-[double linkrd list.c](double linkrd list.c) 
+[binarytree.c](binarytree.c)  
 
 [factorial.c](factorial.c)   
-
-[gcd using if.c](gcd using if.c)   
-
-[gcd using if-else .c](gcd using if-else .c)
 
 [integers.c](integers.c)      
 
