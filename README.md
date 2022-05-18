@@ -27,5 +27,4 @@
 [simple calculator.c](simple calculator.c) 
 
 [swapping.c](swapping.c)  
-
-[transpose of a matrix.c](transpose of a matrix.c)     
+[natural_numbers.c](natural_numbers.c)   
