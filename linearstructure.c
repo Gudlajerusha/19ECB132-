@@ -129,6 +129,5 @@ int main(void) {
       case 5: return 0;
       default: printf("Invalid Option.  Try again.");
     }
-    
   }
 }
