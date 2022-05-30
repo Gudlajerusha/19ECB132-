@@ -5,19 +5,19 @@
 
 struct node {
     
-    int u;
+    int num;
     struct node *left;
     struct node *right;
   
 };
 
-struct node* insert( struct node* root, int u ) {
+struct node* insert( struct node* root, int num ) {
         
     if(root == NULL) {
     
         struct node* node = (struct node*)malloc(sizeof(struct node));
 
-        node->u = u;
+        node->num= num;
 
         node->left = NULL;
         node->right = NULL;
@@ -27,11 +27,11 @@ struct node* insert( struct node* root, int u ) {
       
         struct node* cur;
         
-        if(u <= root->u) {
-            cur = insert(root->left, u);
+        if(num <= root->num) {
+            cur = insert(root->left, num);
             root->left = cur;
         } else {
-            cur = insert(root->right, u);
+            cur = insert(root->right, num);
             root->right = cur;
         }
     
@@ -39,12 +39,9 @@ struct node* insert( struct node* root, int u ) {
     }
 }
 
-/* you only have to complete the function given below.  
-node is defined as  
-
 struct node {
     
-    int u;
+    int num;
     struct node *left;
     struct node *right;
   
@@ -82,14 +79,14 @@ int main() {
   
     struct node* root = NULL;
     
-    int t;
-    int u;
+    int j;
+    int num;
 
-    scanf("%d", &t);
+    scanf("%d", &j);
 
-    while(t-- > 0) {
-        scanf("%d", &u);
-        root = insert(root, u);
+    while(j-- > 0) {
+        scanf("%d", &num);
+        root = insert(root, num);
     }
   
     printf("%d",getHeight(root));
