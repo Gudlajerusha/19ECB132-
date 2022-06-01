@@ -2,7 +2,7 @@
 
 ## INDEX
 [hello.c](hello.c)    
-[FABONACCI.C](FABONACCI.C)   
+[fabonacci.c](fabonacci.c)        
 [array1.c](array1.c)     
 [binarytree.c](binarytree.c)    
 [factorial.c](factorial.c)   
