@@ -17,3 +17,8 @@ int main()
 
     return 0;
 }
+
+
+Enter two positive integers: 3
+7
+GCD = 1
