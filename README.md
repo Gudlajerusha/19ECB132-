@@ -1,8 +1,7 @@
 # 19ECB132
 
 ## INDEX
-[hello.c](hello.c)    
-[fabonacci.c](fabonacci.c)        
+[hello.c](hello.c)          
 [array1.c](array1.c)     
 [binarytree.c](binarytree.c)    
 [factorial.c](factorial.c)   
