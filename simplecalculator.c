@@ -29,3 +29,10 @@ int main() {
 
   return 0;
 }
+
+
+
+Enter an operator (+, -, *, /): +
+Enter two operands: 27
+45
+27.0 + 45.0 = 72.0
