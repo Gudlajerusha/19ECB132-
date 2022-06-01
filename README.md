@@ -11,8 +11,7 @@
 [singlelinkedlist.c](singlelinkedlist.c)               
 [doublelinkedlist.c](doublelinkedlist.c)           
 [gcdif.c](gcdif.c)            
-[gcdifelse.c](gcdifelse.c)                     
-[primenumbers.c](primenumbers.c)          
+[gcdifelse.c](gcdifelse.c)                              
 [simplecalculator.c](simplecalculator.c)            
 [transposematrix.c](transposematrix.c)                    
       
