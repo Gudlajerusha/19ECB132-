@@ -37,3 +37,29 @@ int main() {
   }
   return 0;
 }
+
+
+
+
+Enter rows and columns: 2
+4
+
+Enter matrix elements:
+Enter element a11: 1
+Enter element a12: 2
+Enter element a13: 3
+Enter element a14: 4
+Enter element a21: 5
+Enter element a22: 6
+Enter element a23: 7
+Enter element a24: 8
+
+Entered matrix: 
+1  2  3  4  
+5  6  7  8  
+
+Transpose of the matrix:
+1  5  
+2  6  
+3  7  
+4  8  
