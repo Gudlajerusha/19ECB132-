@@ -13,6 +13,6 @@
 [gcdifelse.c](gcdifelse.c)                              
 [simplecalculator.c](simplecalculator.c)            
 [transposematrix.c](transposematrix.c)   
-[binarytree linkedlist.c](binarytree linkedlist.c)   
+[binarytreelinkedlist.c](binarytreelinkedlist.c)     
       
    
