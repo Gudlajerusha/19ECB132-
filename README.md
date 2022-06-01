@@ -21,5 +21,5 @@
 [simplecalculator.c](simplecalculator.c)            
 [transposematrix.c](transposematrix.c)           
 [LCM2num.c](LCM2num.c)          
-[binarysearch_tree.c](binarysearch_tree.c)     
-[preorder_traversal.c](preorder_traversal.c)     
+[binarysearchtree.c](binarysearchtree.c)       
+[preordertraversal.c](preordertraversal.c)    
