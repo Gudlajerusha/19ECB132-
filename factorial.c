@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()
+int main()
 {
 	int i,n,sum;
 	printf("enter the value of 'n' natural numbers");
