@@ -16,5 +16,5 @@
 [primenumbers.c](primenumbers.c)          
 [simplecalculator.c](simplecalculator.c)            
 [transposematrix.c](transposematrix.c)                    
-[binarysearchtree.c](binarysearchtree.c)       
+      
    
