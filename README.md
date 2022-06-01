@@ -9,8 +9,7 @@
 [integers.c](integers.c)   
 [linearstructure.c](linearstructure.c)         
 [positive,negative.c](positive,negative.c)     
-[swapping.c](swapping.c)   
-[naturalnumbers.c](naturalnumbers.c)     
+[swapping.c](swapping.c)       
 [singlelinkedlist.c](singlelinkedlist.c)               
 [doublelinkedlist.c](doublelinkedlist.c)           
 [gcdif.c](gcdif.c)            
@@ -18,7 +17,6 @@
 [positiveintegers.c](positiveintegers.c)          
 [primenumbers.c](primenumbers.c)          
 [simplecalculator.c](simplecalculator.c)            
-[transposematrix.c](transposematrix.c)           
-[LCM2num.c](LCM2num.c)          
+[transposematrix.c](transposematrix.c)                    
 [binarysearchtree.c](binarysearchtree.c)       
    
