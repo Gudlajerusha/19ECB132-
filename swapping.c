@@ -26,3 +26,14 @@ void swap(int *x, int *y)
     *x   = *y;  
     *y   = temp;  
 }  
+
+
+
+Enter values for a and b
+4
+9
+
+
+Before swapping: a = 4 and b = 9
+
+After swapping: a = 9 and b = 4
