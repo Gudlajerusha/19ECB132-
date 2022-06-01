@@ -17,3 +17,8 @@ int main()
 
     return 0;
 }
+
+
+
+Enter two integers: 2 4
+G.C.D of 2 and 4 is 2
