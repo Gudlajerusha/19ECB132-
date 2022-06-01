@@ -1,7 +1,6 @@
 # 19ECB132
 
-## INDEX
-[hello.c](hello.c)              
+## INDEX               
 [binarytree.c](binarytree.c)    
 [factorial.c](factorial.c)   
 [integers.c](integers.c)   
