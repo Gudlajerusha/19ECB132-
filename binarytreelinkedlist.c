@@ -147,3 +147,12 @@ int main(){
       
     return 0;  
 }  
+/*output:
+Binary tree after insertion: 
+1 
+Binary tree after insertion: 
+2 1 3 
+Binary tree after insertion: 
+4 2 5 1 3 
+Binary tree after insertion: 
+4 2 5 1 6 3 7*/
