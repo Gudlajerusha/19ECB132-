@@ -72,8 +72,7 @@ int main() {
   postorderTraversal(root);
 }
 
-output:
-gcc binarytree.c
+
 
 
 
