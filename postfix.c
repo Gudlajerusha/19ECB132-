@@ -46,3 +46,6 @@ int main(){
 	printf("Result of expression is: %d",stack[top]);
 return 0;
 }
+/*output:
+Enter postfix string you want to evaluate 3
+Result of expression is: 3*/
