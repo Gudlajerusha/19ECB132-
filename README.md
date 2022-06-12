@@ -15,5 +15,6 @@
 [transposematrix.c](transposematrix.c)   
 [binarytreelinkedlist.c](binarytreelinkedlist.c)    
 [linkedlist.c](linkedlist.c)      
-      
+[postfix.c](postfix.c)          
+
    
