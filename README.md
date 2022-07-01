@@ -17,15 +17,5 @@
 [linkedlist.c](linkedlist.c)      
 [postfix.c](postfix.c)          
 [array.c](array.c)    
-[arrayelements.c](arrayelements.c)       
-[binary.c](binary.c)       
-[collatzsequence.c](collatzsequence.c)     
-[crossover.c](crossover.c)     
-[factl.c](factl.c)     
-[intarray.c](intarray.c)     
-[maxheight.c](maxheight.c)     
-[preordertrav.c](preordertrav.c)     
-[sortedlinkedlist.c](sortedlinkedlist.c)     
-[squarematrix.c](squarematrix.c)      
 
    
