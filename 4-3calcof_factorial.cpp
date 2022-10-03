@@ -22,3 +22,10 @@ int main()
     getch();
     return 0;
 }
+
+output:
+Enter a positive integer :10
+Factorial of 10 is 3628800
+
+
+
