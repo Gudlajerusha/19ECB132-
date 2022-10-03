@@ -22,3 +22,7 @@ int main()
 	return 0;
 	
 }   	
+
+output:
+77.744
+2.4354
