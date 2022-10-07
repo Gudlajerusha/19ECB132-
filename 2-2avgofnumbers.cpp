@@ -16,3 +16,8 @@ int main()
 	cout <<"average="<< average <<"\n";
 	 return 0;
 }
+/*output:
+enter two numbers: 6
+4
+sum=10
+average=5*/
