@@ -21,4 +21,7 @@ int main()
 	 delete arr;
 	 getch();
 }
-
+/*output:
+Enter the size of the integer array:2
+creating an array of size2..
+Dynamic allocation of memory for array arr is successful.*/
