@@ -38,3 +38,28 @@ int main()
 	}
 	return 0;
 }
+/*Output:
+Details of manager1
+enter name: Jerusha
+enter age: 19
+
+Details of manager2
+enter name: Riya
+enter age: 20
+
+Details of manager3
+enter name: shriya
+enter age: 20
+
+
+Manager1
+Name:Jerusha
+Age:19
+
+Manager2
+Name:Riya
+Age:20
+
+Manager3
+Name:shriya
+Age:20*/
