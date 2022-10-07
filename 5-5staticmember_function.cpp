@@ -38,3 +38,9 @@ int main()
 	
 	return 0;
 }
+/*output:
+count:2
+count:3
+object number:1
+object number:2
+object number:3*/
