@@ -14,3 +14,8 @@ int main()
 	
 	getch();
 }
+/*output:
+intvar = 25
+floatvar = 54.32
+float(intvar) = 25
+int(floatvar) = 54*/
