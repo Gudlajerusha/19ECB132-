@@ -9,5 +9,5 @@ int main()
 }                                      //end of example
 
 
-output:
-C++ is better than C.
+/*output:
+C++ is better than C.*/
