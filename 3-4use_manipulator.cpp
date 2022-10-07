@@ -12,3 +12,7 @@ int main()
 	     << setw(10) << "Total" << setw(10) << Total  << endl; 
     return 0;
 }
+/*output:
+ Basic       950
+ Allowance        95
+     Total      1045*/
