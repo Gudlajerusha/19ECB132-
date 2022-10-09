@@ -32,5 +32,4 @@ void TOH(int d,char tower1,char tower2,char tower3)
     
     getch();
     return 0;
- 
  }
